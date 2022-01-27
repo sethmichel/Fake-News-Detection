@@ -1,7 +1,5 @@
 # Fake-News-Detection
 
-BUILD 2.1 UNDER CONSTRUCTION, BUILD 2.0 FINISHED<br/>
-
 <br/>Build 2.0
 <br/>---Uses a pytorch model to decide how likely it is a given article is fake.
 <br/>---Pytorch replaces the API only model version 1.0 used
